@@ -1,2 +1,3 @@
 # Python_code
-This contain multiple miniprojects
+this repo contain multiple functions that can be added as features in a particular project.
+
